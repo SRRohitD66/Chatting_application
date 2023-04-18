@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "985184859718",
+    "project_id": "let-schat-7db7a",
+    "storage_bucket": "let-schat-7db7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985184859718:android:b0a0b36ada0a6154f9fc47",
+        "android_client_info": {
+          "package_name": "com.example.chatting_applicatrion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985184859718-3efqtkaniiqt8302dv57n54hfkut5lvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtqyLnlJtJz-t5t2pg9cdbn-mQHA8c7KI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985184859718-3efqtkaniiqt8302dv57n54hfkut5lvb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
